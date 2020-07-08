@@ -1,3 +1,3 @@
-##react 연습하기
+#react 연습하기
 
-\*\*movie-app code writing
+**movie-app code writing
